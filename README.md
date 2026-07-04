@@ -1,4 +1,5 @@
 # YT-Wu-Ba
+下載介紹影片:https://youtu.be/R9802ar-pao
 用法介紹影片:https://youtu.be/-MssCeqMQpU
 1.像是麥塊之類的模組與光影之類會配好放這裡。但不會有地圖與其他模組，僅基礎模組!
 2.這是一個 modrinth 格式的優化整合包。請使用者下載後,直接匯入到 modrinth app、prism launcher 或 pcl2 等啟動器中使用。
