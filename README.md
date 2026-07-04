@@ -1,4 +1,5 @@
 # YT-Wu-Ba
+用法:https://youtu.be/-MssCeqMQpU
 1.像是麥塊之類的模組與光影之類會配好放這裡。
 2.這是一個 modrinth 格式的優化整合包。請使用者下載後,直接匯入到 modrinth app、prism launcher 或 pcl2 等啟動器中使用。
 3.此資料庫完全保障作者著作權採用 MRPACK 格式，原理類似清單，匯入後使用者會自行抓取所需模組材料，不損傷作者權益。
