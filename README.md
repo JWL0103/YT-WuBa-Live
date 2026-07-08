@@ -1,8 +1,8 @@
 # YT-Wu-Ba
 
-使用這個模組加入伺服器就能自動下載其他模組
+【使用這個模組加入伺服器就能自動下載其他模組】
 <br>
-[點擊下載自動化模組](https://modrinth.com/mod/automodpack)
+「[點擊下載自動化模組]」(https://modrinth.com/mod/automodpack)
 <br><br><br>
 可以略以下步驟(下面介紹是舊的):
 <br><br><br>
